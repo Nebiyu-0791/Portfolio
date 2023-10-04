@@ -20,7 +20,7 @@ git clone https://github.com/Nebiyu-0791/Portfolio.git
 
 - Go to the directory
 - Run the index.html file
-- Start Typing!
+- See the Portfolio!
 
 <h3> Screenshots </h3>
 <img src = "https://github.com/Nebiyu-0791/Portfolio/blob/main/portfolio.png"/>
